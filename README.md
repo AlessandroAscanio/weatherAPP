@@ -1,2 +1,2 @@
-# weatherAPP
+# WeatherAPP
 Javascript Weather Application
